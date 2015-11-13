@@ -9,3 +9,7 @@ ROBOTS = []
 #This message will be removed in the future. It is here to facilitate from the changeover
 #to use of imageproc-settings in projects.
 print "shared_multi.py from imageproc-settings"
+
+prevStamp = 0
+forces_saved = None
+points = [0,0]
